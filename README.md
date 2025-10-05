@@ -1,3 +1,5 @@
+![Banner](https://i.imgur.com/ZmaxN4x.png)
+
 # Project Severance
 
 Project Severance is a survival-horror experience that throws you into a relentless game of cat-and-mouse against something far beyond human understanding. Trapped in a forsaken facility buried deep in the shadows of secrecy, you awaken to find yourself hunted by a twisted, otherworldly entity known only as the Anomaly—a creature that defies logic, shifts through the darkness, and stalks you with unnatural precision.
